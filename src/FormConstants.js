@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import Multiselect from 'multiselect-react-dropdown'; // Install this using npm or yarn
 
-import './../../assets/css/multiselector-dropdown.css'
-import './../../assets/css/switch-toggle.css'
+import './multiselector-dropdown.css'
+import './switch-toggle.css'
 
 const FormConstants = (props) => {
 
